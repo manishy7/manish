@@ -1,4 +1,4 @@
-# infosys help guide
+# infosys problem solving code
 def max_visited_speciality(patient_medical_speciality_list,medical_speciality):
     a=''
     countP=0
